@@ -15,6 +15,8 @@ Atualmente foco meus estudos e projetos em Python, PHP, Symfony, Django, Flask, 
 - Docker, Kubernetes, OpenShift e Linux
 - Banco de dados e análise de dados
 - DevOps, segurança e observabilidade
+- Git, GitHub, Pull Requests e Code Review
+- Scrum, Kanban e documentação técnica
 
 ## 🌐 Portfólio
 
@@ -25,7 +27,7 @@ Acesse meu portfólio:
 ## 📫 Contato
 
 - Email: luizgustavoalvesbarros@gmail.com
-- LinkedIn: https://www.linkedin.com/in/luiz-gustavo-alves-barros
+- LinkedIn: https://www.linkedin.com/in/lgabarros-dev/
 - GitHub: https://github.com/luizgustavo-ab
 
 ---
@@ -47,6 +49,8 @@ I am currently focused on Python, PHP, Symfony, Django, Flask, SQL, Docker, Kube
 - Docker, Kubernetes, OpenShift and Linux
 - Databases and data analysis
 - DevOps, security and observability
+- Git, GitHub, Pull Requests and Code Review
+- Scrum, Kanban and technical documentation
 
 ## 🌐 Portfolio
 
@@ -57,5 +61,5 @@ Check out my portfolio:
 ## 📫 Contact
 
 - Email: luizgustavoalvesbarros@gmail.com
-- LinkedIn: https://www.linkedin.com/in/luiz-gustavo-alves-barros
+- LinkedIn: https://www.linkedin.com/in/lgabarros-dev/
 - GitHub: https://github.com/luizgustavo-ab
